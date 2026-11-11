@@ -9,6 +9,6 @@
     "lint": "npm --prefix eazywed run lint"
   },
   "devDependencies": {
-    "concurrently": "^10.0.6"
+    "concurrently": "^10.0.7"
   }
 }
